@@ -4,6 +4,8 @@
 
 ---
 
+> Least Squares defines what we want to minimize. Gradient Descent defines how we minimize it.
+
 ## The Comfortable World You're Leaving Behind
 
 Every derivative you've taken so far has lived in a tidy, one-dimensional world.
