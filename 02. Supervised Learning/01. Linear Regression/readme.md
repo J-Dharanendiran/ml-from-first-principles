@@ -1,10 +1,10 @@
-# Linear Regression
+# 📈 Linear Regression
 
 A first-principles exploration of Linear Regression with mathematical derivations, visual explanations, and NumPy implementations from scratch.
 
 ---
 
-## What this section covers
+## 📚 What this section covers
 
 - Residuals
 - Least Squares
@@ -19,7 +19,7 @@ A first-principles exploration of Linear Regression with mathematical derivation
 
 ---
 
-## Suggested learning order
+## 🧭 Suggested learning order
 
 1. Residuals
 2. Least Squares
@@ -34,7 +34,7 @@ A first-principles exploration of Linear Regression with mathematical derivation
 
 ---
 
-## Folder structure
+## 🗂️ Folder structure
 
 ```text
 Linear Regression/
@@ -53,7 +53,7 @@ Linear Regression/
 
 ---
 
-## Implementations
+## 💻 Implementations
 
 - Simple Linear Regression from scratch
 - Multiple Linear Regression from scratch
@@ -65,7 +65,7 @@ Linear Regression/
 
 ---
 
-## Goal
+## 🎯 Goal
 
 The goal of this section is to understand why Linear Regression works mathematically before using machine learning libraries such as Scikit-Learn.
 
