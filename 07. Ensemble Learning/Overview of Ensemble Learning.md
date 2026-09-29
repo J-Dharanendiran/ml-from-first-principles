@@ -608,11 +608,6 @@ The whole chapter is one idea wearing four costumes:
 Voting changes the *minds*. Bagging changes the *data*. Boosting changes the *focus*. Stacking changes the *judge*.
 
 ---
+<img width="1024" height="1536" alt="Ensemble Learning Overview" src="https://github.com/user-attachments/assets/2961f58f-7023-4a1f-8ce2-c8775ba08d97" />
 
-## ✅ Final Takeaway
-
-> *"An ensemble is many different models, each imperfect in its own way, combined so that their mistakes stop lining up. Vote for labels, average for numbers, and pay for it in computation."* 🌲
-
----
-![alt text](<Ensemble Learning Overview.png>)
 ---
